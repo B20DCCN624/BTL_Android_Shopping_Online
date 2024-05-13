@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.CreateAccountActivity"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <TextView
+        android:text="Create an account"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:textSize="40dp"
+        android:layout_marginTop="30dp"
+        android:layout_margin="25dp"
+        android:layout_width="180dp"
+        android:layout_height="wrap_content"/>
+
+    <EditText
+        android:id="@+id/edt_account_username"
+        android:hint="Username or Email"
+        android:background="@drawable/border_radius"
+        android:padding="15dp"
+        android:textSize="18dp"
+        android:layout_marginTop="40dp"
+        android:layout_marginBottom="30dp"
+        android:layout_margin="25dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <EditText
+        android:id="@+id/edt_account_password"
+        android:hint="Password"
+        android:background="@drawable/border_radius"
+        android:padding="15dp"
+        android:layout_margin="25dp"
+        android:inputType="textPassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <Button
+        android:id="@+id/btn_createAccount"
+        android:text="Create Account"
+        android:textSize="26dp"
+        android:textStyle="bold"
+        android:layout_margin="25dp"
+        android:backgroundTint="@color/pinkRed"
+        android:layout_marginTop="50dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:text="- Or Continue with -"
+        android:textColor="#575757"
+        android:textSize="16dp"
+        android:gravity="center_horizontal"
+        android:layout_marginTop="60dp"
+        android:layout_margin="25dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <ImageView
+        android:id="@+id/icon_account_google"
+        android:src="@drawable/icon_gg"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:layout_width="50dp"
+        android:layout_height="50dp"/>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="20dp">
+
+        <TextView
+            android:id="@+id/tv_create"
+            android:text="I Already Have an Account"
+            android:textColor="#575757"
+            android:textSize="16dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <TextView
+            android:id="@+id/tv_login"
+            android:layout_toRightOf="@+id/tv_create"
+            android:text="Login"
+            android:textSize="16dp"
+            android:textColor="@color/pinkRed"
+            android:layout_marginStart="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+    </RelativeLayout>
+
+</LinearLayout>
