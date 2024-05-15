@@ -7,6 +7,7 @@ Các công nghệ sử dụng:
 - Firebase authentication: Xác thực người dùng
 - Glide: Xử lý ảnh 	
 - SharedPreferences
+  
 Các tính năng:
 - Đăng nhập/ đăng ký tài khoản
 - Trang chủ
@@ -35,12 +36,12 @@ Các tính năng:
 
 Giao diện app:
 
-<img src="https://github.com/B20DCCN624/BTL_Android_Shopping_Online/assets/85285634/fdd55f7a-aecb-4033-8bbf-f6c0e5f34fc2" alt="Image description" width="250"/>
-<img src="https://github.com/B20DCCN624/BTL_Android_Shopping_Online/assets/85285634/9f65c0bc-7a22-45d5-af30-8d825e222688" alt="Image description" width="250"/>
-<img src="https://github.com/B20DCCN624/BTL_Android_Shopping_Online/assets/85285634/479be1ce-12a9-4f47-9773-d2901dbc1508" alt="Image description" width="250"/>
-<img src="https://github.com/B20DCCN624/BTL_Android_Shopping_Online/assets/85285634/996dc294-fb4e-409e-b95f-aa0f6c9bdb07" alt="Image description" width="250"/>
-<img src="https://github.com/B20DCCN624/BTL_Android_Shopping_Online/assets/85285634/42d24dbd-7330-440f-a2f5-6d523f30384c" alt="Image description" width="250"/>
-<img src="https://github.com/B20DCCN624/BTL_Android_Shopping_Online/assets/85285634/7b4a2599-2fd4-4847-8673-981b168b658f" alt="Image description" width="250"/>
+<img src="https://github.com/B20DCCN624/BTL_Android_Shopping_Online/assets/85285634/fdd55f7a-aecb-4033-8bbf-f6c0e5f34fc2" alt="Image description" width="150"/>
+<img src="https://github.com/B20DCCN624/BTL_Android_Shopping_Online/assets/85285634/9f65c0bc-7a22-45d5-af30-8d825e222688" alt="Image description" width="150"/>
+<img src="https://github.com/B20DCCN624/BTL_Android_Shopping_Online/assets/85285634/479be1ce-12a9-4f47-9773-d2901dbc1508" alt="Image description" width="150"/>
+<img src="https://github.com/B20DCCN624/BTL_Android_Shopping_Online/assets/85285634/996dc294-fb4e-409e-b95f-aa0f6c9bdb07" alt="Image description" width="150"/>
+<img src="https://github.com/B20DCCN624/BTL_Android_Shopping_Online/assets/85285634/42d24dbd-7330-440f-a2f5-6d523f30384c" alt="Image description" width="150"/>
+<img src="https://github.com/B20DCCN624/BTL_Android_Shopping_Online/assets/85285634/7b4a2599-2fd4-4847-8673-981b168b658f" alt="Image description" width="150"/>
 
 
 
