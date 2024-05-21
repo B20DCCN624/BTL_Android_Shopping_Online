@@ -2,7 +2,7 @@ Bài tập lớn Android PTIT
 
 Các công nghệ sử dụng:
 - Java (AndroidX, Google Material)
-- Frisestore database, SQLite: Cơ sở dữ liệu
+- Firestore database, SQLite: Cơ sở dữ liệu
 - Firebase storage: Lưu ảnh
 - Firebase authentication: Xác thực người dùng
 - Glide: Xử lý ảnh 	
